@@ -21,10 +21,12 @@ Myrtle spurge has been classified as a noxious weed in Salt Lake County due to b
  ### Results
 
 The below map displays areas that are suitable for myrtle spurge in Salt Lake County, based on elevation, slope, and aspect.
-<img width="2291" height="1592" alt="image" src="https://github.com/user-attachments/assets/2e91122d-7987-47ec-9ba0-b09e7d5150ad" />
+<img width="3300" height="2550" alt="Layout3" src="https://github.com/user-attachments/assets/2528f711-5ece-46c0-bd6a-05718e4ccde0" />
+
 
 Given many observations were recorded in the Wasatch range, the below map displays foothill and canyon areas with a high volume of observations in Salt Lake county. 
- <img width="1596" height="1738" alt="image (1)" src="https://github.com/user-attachments/assets/3e45a267-096f-4294-8e08-04b1610233eb" />
+<img width="3300" height="2550" alt="Bonneville Shoreline Myrtle Spurge" src="https://github.com/user-attachments/assets/98d6c378-4c60-417e-8ee2-6525f715df41" />
+
 
 ### References
 
