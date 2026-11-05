@@ -1,5 +1,5 @@
 # myrtle-spurge-saltlake-county
-This repository hosts a small GIS analysis of where myrtle spurge (Eurhorbia myrsinites) has been observed in Salt Lake County. 
+This repository hosts a small GIS analysis of where myrtle spurge (Eurphorbia myrsinites) has been observed in Salt Lake County. 
 
 ### Question:
 At which elevation, slope, and aspect has myrtle spurge been observed in Salt Lake County? Which areas are most likely to see myrtle spurge growth, based on historical observations?
